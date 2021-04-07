@@ -18,8 +18,8 @@ class Symptoms extends Component {
           <div className={classes.mainContent}>
             <div className={classes.alert}>
               <p>
-                There’s currently no vaccine to prevent coronavirus disease
-                (COVID-19). So, take the necessary preventive measures.
+                There’s currently some vaccines to prevent coronavirus disease
+                (COVID-19). But coronavirus is mutating itself. So, take the necessary preventive measures.
               </p>
             </div>
             <div className={classes.symptomsMain}>
